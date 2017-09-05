@@ -1,5 +1,5 @@
-# overview
-Overview of the LearnDeep-MSOE software project
+# overview of the LearnDeep-MSOE software project
+
 
 Learn Deep will use a new fork of some Network Resource Planning (NRP) software that has been used for several other projects around the world. Here's a [short history of the software](https://github.com/django-rea/rea-app/wiki).
 

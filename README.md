@@ -1,7 +1,7 @@
 # overview of the LearnDeep-MSOE software project
 
 
-Learn Deep will use a new fork of some Network Resource Planning (NRP) software that has been used for several other projects around the world. Here's a [short history of the software](https://github.com/django-rea/rea-app/wiki).
+Learn Deep will use a new fork of some Network Resource Planning (NRP) software that has been used for several other projects around the world: originally, [Sensorica](http://www.sensorica.co/) in Montreal, Canada, and most recently, [FairCoop](https://fair.coop/) based in Europe. Here's a [short history of the software](https://github.com/django-rea/rea-app/wiki).
 
 You will see two code repositories in this github organization:
 * [valuenetwork](https://github.com/LearnDeepMilwaukee/valuenetwork), the NRP models and logic. It also has a user interface, but you will be creating a new and better one.

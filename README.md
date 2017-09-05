@@ -10,3 +10,5 @@ You will see two code repositories in this github organization:
 This repository is for documentation about the project as a whole.
 
 We encourage you to study the wiki in this repository and all of the documentation links in the other repositories.
+
+This project also has a chat room at https://gitter.im/LearnDeepMilwaukee

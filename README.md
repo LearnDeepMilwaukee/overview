@@ -1,5 +1,6 @@
 # overview of the LearnDeep-MSOE software project
 
+This project is a collaboration betweeen [LearnDeep](http://learndeep.org/), The [Milwaukee School of Engineering](http://www.msoe.edu/), and a bunch of open-source software projects for economic networks.
 
 Learn Deep will use a new fork of some Network Resource Planning (NRP) software that has been used for several other projects around the world: originally, [Sensorica](http://www.sensorica.co/) in Montreal, Canada, and most recently, [FairCoop](https://fair.coop/) based in Europe. Here's a [short history of the software](https://github.com/django-rea/rea-app/wiki).
 
